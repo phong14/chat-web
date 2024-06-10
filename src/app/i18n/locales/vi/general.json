@@ -1,0 +1,6 @@
+{
+  "buttons": {
+    "login": "Đăng Nhập"
+  },
+  "hi": "Chào {{userName}}!"
+}

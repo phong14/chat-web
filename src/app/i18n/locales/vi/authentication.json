@@ -1,0 +1,16 @@
+{
+  "login": {
+    "title": "Đăng Nhập",
+    "email": {
+      "placeHolder": "Địa chỉ email"
+    },
+    "password": {
+      "placeHolder": "Mật khẩu"
+    }
+  },
+  "register": {
+    "title": "Đăng Ký"
+  },
+  "logout": "Đăng xuất",
+  "profile": "Hồ sơ"
+}

@@ -1,0 +1,37 @@
+{
+  // Formatting using Prettier by default for all languages
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.configPath": ".prettierrc.json",
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // Linting using ESLint.
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+
+  "editor.tabSize": 2,
+  "eslint.options": {
+    "extensions": [".html", ".js", ".jsx", ".ts", ".tsx", ".json"]
+  },
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "cSpell.words": [
+    "NextJS",
+    "picsum",
+    "commitlint",
+    "lottiefiles",
+    "dompurify",
+    "cssinjs",
+    "plaiceholder",
+    "data-testid",
+    "NEXTAUTH"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

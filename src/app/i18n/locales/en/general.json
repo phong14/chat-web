@@ -1,0 +1,6 @@
+{
+  "buttons": {
+    "login": "Log In"
+  },
+  "hi": "Hi {{userName}}!"
+}

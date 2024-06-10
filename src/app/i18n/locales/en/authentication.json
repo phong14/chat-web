@@ -1,0 +1,16 @@
+{
+  "login": {
+    "title": "Log In",
+    "email": {
+      "placeHolder": "Email Address"
+    },
+    "password": {
+      "placeHolder": "Password"
+    }
+  },
+  "register": {
+    "title": "Register"
+  },
+  "logout": "Logout",
+  "profile": "Profile"
+}
